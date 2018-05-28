@@ -1,0 +1,25 @@
+body {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+  display: flex;
+}
+
+header {
+  display: flex;
+  position: fixed;
+  height: 50px;
+  margin: 10px 69px;
+  border-bottom: 1px solid seashell;
+}
+
+span.title {
+font-family:cursive;
+}
+
+span.menu {
+  justify-content: flex-end;
+}
